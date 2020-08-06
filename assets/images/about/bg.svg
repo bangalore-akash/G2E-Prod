@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920.001" height="1174.936" viewBox="0 0 1920.001 1174.936">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_758" data-name="Rectangle 758" width="1920.001" height="1174.935" fill="#edf0f7"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.203" y1="0.115" x2="0.697" y2="0.798" gradientUnits="objectBoundingBox">
+      <stop offset="0.001" stop-color="#ff974f"/>
+      <stop offset="1" stop-color="#ff5652"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_1020" data-name="Group 1020" transform="translate(-120.275 -194.876)">
+    <g id="Group_1019" data-name="Group 1019" transform="translate(120.275 194.876)">
+      <g id="Group_1017" data-name="Group 1017">
+        <g id="Group_1014" data-name="Group 1014">
+          <path id="Path_2006" data-name="Path 2006" d="M0,0H1920V1144.935H0Z" fill="#edf0f7"/>
+          <g id="Group_1013" data-name="Group 1013" clip-path="url(#clip-path)">
+            <circle id="Ellipse_265" data-name="Ellipse 265" cx="223.804" cy="223.804" r="223.804" transform="translate(1631.688 448.392)" fill="#fff"/>
+            <path id="Path_2001" data-name="Path 2001" d="M497.265,105.851C391.211,187.126,307.619,296.229,264.972,422.77c-94.606,280.681,43.605,648.315,342.335,734.774,279.07,80.771,599-89.914,649.463-384.2,27.62-161.065,48.761-316.448,214.333-392.054,33.776-15.423,69.826-25.822,102.49-43.5,178.9-96.819-96.917-237.02-176.593-278.664-180.816-94.517-393.244-134.736-594.54-93.288C692.144-11.451,586.715,37.3,497.265,105.851Z" transform="translate(268.477 -318.036)" fill="#fff"/>
+            <circle id="Ellipse_268" data-name="Ellipse 268" cx="57.453" cy="57.453" r="57.453" transform="matrix(0.163, -0.987, 0.987, 0.163, 303.376, 318.731)" fill="#fff"/>
+            <circle id="Ellipse_269" data-name="Ellipse 269" cx="111.965" cy="111.965" r="111.965" transform="translate(599.451 823.01)" fill="#fff"/>
+            <path id="Path_2003" data-name="Path 2003" d="M235.205,180.035a13.078,13.078,0,1,1-13.076-13.076A13.077,13.077,0,0,1,235.205,180.035Z" transform="translate(208.456 175.2)" fill="#fff"/>
+            <path id="Path_2004" data-name="Path 2004" d="M587.1,29.819c-103.219,55.917-190.78,139.074-245.219,243C221.133,503.35,290.424,841.392,537.731,957.563c231.035,108.528,532.154,4.485,616.485-243.931,46.152-135.955,85.9-267.873,239.985-310.675,31.431-8.732,64.148-12.788,94.926-23.628,168.57-59.372-51.451-219.018-114.851-266.131C1230.391,6.279,1051.6-57.879,871.224-49.641,772.369-45.127,674.167-17.347,587.1,29.819Z" transform="translate(378.405 -317.878)" opacity="0" fill="url(#linear-gradient)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
